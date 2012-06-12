@@ -1,0 +1,4 @@
+document.write("<div id='jGo_app' class='jGo_myapp'><div id='jGo_win0' class='jGo_app jGo_myapp jGo_ydsf'></div><div id='jGo_win1' class='jGo_app jGo_myapp jGo_ydsf'></div><div id='jGo_win2' class='jGo_app jGo_myapp jGo_ydsf'></div><div id='jGo_win3' class='jGo_app jGo_myapp jGo_ydsf'></div><div id='jGo_win4' class='jGo_app jGo_myapp jGo_ydsf'></div><div id='jGo_win5' class='jGo_app jGo_myapp jGo_ydsf'></div><div id='jGo_win6' class='jGo_app jGo_myapp jGo_ydsf'></div><div id='jGo_win7' class='jGo_app jGo_myapp jGo_ydsf'></div><div id='jGo_win8' class='jGo_app jGo_myapp jGo_ydsf'></div><div id='jGo_win9' class='jGo_app jGo_myapp jGo_ydsf'></div></div>");
+
+//Initialization
+jGo.scripts.onLoad('jGo.DefaultWindow.pack.js');

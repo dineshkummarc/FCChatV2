@@ -1,0 +1,21 @@
+<HTML>
+<HEAD>
+  <TITLE>Explore The Web</TITLE>
+
+<SCRIPT LANGUAGE='JAVASCRIPT' TYPE='TEXT/JAVASCRIPT'>
+<!--
+function goThere(){
+	window.location.replace(document.forms.bfrm.elements[0].value);
+	return true;
+}
+// -->
+</script>
+</HEAD>
+
+<BODY BGCOLOR="eeeeee" style='font-family:arial'>
+<fieldset style='width:80%;height:80%'><legend><b>Explore the Web</b></legend>
+	<small>Type the EXACT URL of the site you wish to visit and press enter.</small><br><br>
+			<form name='bfrm' action='javascript:goThere()' > <input type='text' style='width:100%'><br> <small>(Example: http://www.google.com)</small></form><br><br><small><small><b>Notes:</b> This will not work with all web sites because some sites do not allow themselves to be framed. 
+				</fieldset>
+</BODY>
+</HTML>

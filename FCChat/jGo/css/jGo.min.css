@@ -1,0 +1,46 @@
+#jGo_app.jGo_myapp div, #jGo_app.jGo_myapp span, #jGo_app.jGo_myapp p, .jGo_app.jGo_myapp div, .jGo_app.jGo_myapp span, .jGo_app.jGo_myapp p {width:auto;height:auto;max-width:none;max-height:none;position:static;float:none;overflow:visible;zoom:normal;writing-mode:lr-tb;background:transparent none;padding:0px;margin:0px;font:12px arial;border:none;color:black;direction:ltr;line-height:normal;letter-spacing:normal;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;unicode-bidi:normal;white-space:normal;word-spacing:normal}
+#jGo_app.jGo_myapp a, .jGo_app.jGo_myapp a {padding:0px;margin:0px;font:12px arial;border:none;color:black;direction:ltr;line-height:normal;letter-spacing:normal;text-align:left;text-decoration:underline;text-indent:0;text-shadow:none;text-transform:none;unicode-bidi:normal;white-space:normal;word-spacing:normal}
+#jGo_app.jGo_myapp font, .jGo_app.jGo_myapp font {font:12px arial;color:black;direction:ltr;line-height:normal;letter-spacing:normal;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;unicode-bidi:normal;white-space:normal;word-spacing:normal}
+#jGo_app.jGo_myapp i, .jGo_app.jGo_myapp i {font-size:12px;font-family:arial}
+#jGo_app.jGo_myapp img, .jGo_app.jGo_myapp img {padding:0px;margin:0px;border:none}
+#jGo_app.jGo_myapp table, .jGo_app.jGo_myapp table{table-layout:auto;padding:0px;margin:0px;border:0px;border-collapse:separate;border-spacing:0px;width:auto;height:auto;max-width:none;max-height:none;position:static;float:none;overflow:visible;zoom:normal;writing-mode:lr-tb;}
+#jGo_app.jGo_myapp tr, #jGo_app.jGo_myapp th, #jGo_app.jGo_myapp td, .jGo_app.jGo_myapp tr, .jGo_app.jGo_myapp th, .jGo_app.jGo_myapp td {background:transparent none;padding:0px;margin:0px;border:none;font: normal 12px arial;text-align:left;width:auto;height:auto}
+
+#jGo_app.jGo_myapp *.jGo_drag, .jGo_app.jGo_myapp *.jGo_drag{position:relative;cursor:move}
+#jGo_app.jGo_myapp td.jGo_tl_default, .jGo_app.jGo_myapp td.jGo_tl_default{width:5px;cursor:default}
+#jGo_app.jGo_myapp td.jGo_tm_default, .jGo_app.jGo_myapp td.jGo_tm_default{position:relative;cursor:default;height:30px}
+#jGo_app.jGo_myapp td.jGo_tr_default, .jGo_app.jGo_myapp td.jGo_tr_default{width:5px;cursor:default}
+#jGo_app.jGo_myapp td.jGo_rl_default, .jGo_app.jGo_myapp td.jGo_rl_default{cursor:w-resize}
+#jGo_app.jGo_myapp td.jGo_rr_default, .jGo_app.jGo_myapp td.jGo_rr_default{cursor:e-resize}
+#jGo_app.jGo_myapp td.jGo_bl_default, .jGo_app.jGo_myapp td.jGo_bl_default{cursor:sw-resize}
+#jGo_app.jGo_myapp td.jGo_bm_default, .jGo_app.jGo_myapp td.jGo_bm_default{position:relative;cursor:s-resize;height:5px}
+#jGo_app.jGo_myapp td.jGo_br_default, .jGo_app.jGo_myapp td.jGo_br_default{cursor:se-resize}
+#jGo_app.jGo_myapp div.jGo_title_default, .jGo_app.jGo_myapp div.jGo_title_default{font-family:Arial,Helvetica;font-size:8pt;color:white}
+
+#jGo_app.jGo_myapp a.jGo_closewindow_default, .jGo_app.jGo_myapp a.jGo_closewindow_default{display:block;width:21px;height:21px;text-decoration:none;background-image:url(../current_skin/closewin.gif);background-repeat:no-repeat;background-position:-0px 0px}
+#jGo_app.jGo_myapp a.jGo_closewindow_default:hover, .jGo_app.jGo_myapp a.jGo_closewindow_default:hover{width:21px;height:21px;text-decoration:none;background-image:url(../current_skin/closewin.gif);background-repeat:no-repeat;background-position:-24px 0px}
+#jGo_app.jGo_myapp a.jGo_maxwindow_default, .jGo_app.jGo_myapp a.jGo_maxwindow_default{display:block;width:21px;height:21px;text-decoration:none;background-image:url(../current_skin/maxwin.gif);background-repeat:no-repeat;background-position:0px 0px}
+#jGo_app.jGo_myapp a.jGo_maxwindow_default:hover, .jGo_app.jGo_myapp a.jGo_maxwindow_default:hover{display:block;width:21px;height:21px;text-decoration:none;background-image:url(../current_skin/maxwin.gif);background-repeat:no-repeat;background-position:-24px 0px}
+#jGo_app.jGo_myapp a.jGo_minwindow_default, .jGo_app.jGo_myapp a.jGo_minwindow_default{display:block;width:21px;height:21px;text-decoration:none;background-image:url(../current_skin/minwin.gif);background-repeat:no-repeat;background-position:0px 0px}
+#jGo_app.jGo_myapp a.jGo_minwindow_default:hover, .jGo_app.jGo_myapp a.jGo_minwindow_default:hover{display:block;width:21px;height:21px;text-decoration:none;background-image:url(../current_skin/minwin.gif);background-repeat:no-repeat;background-position:-24px 0px}
+#jGo_app.jGo_myapp a.jGo_restorewindow_default, .jGo_app.jGo_myapp a.jGo_restorewindow_default{display:block;width:21px;height:21px;text-decoration:none;background-image:url(../current_skin/restorewin.gif);background-repeat:no-repeat;background-position:-0px 0px}
+#jGo_app.jGo_myapp a.jGo_restorewindow_default:hover, .jGo_app.jGo_myapp a.jGo_restorewindow_default:hover{display:block;width:21px;height:21px;text-decoration:none;background-image:url(../current_skin/restorewin.gif);background-repeat:no-repeat;background-position:-24px 0px}
+
+div.jGo_app.jGo_myapp.jGo_ydsf{position:absolute;top:-100px;left:-100px;margin:9px -9px -9px 9px;background:url(../current_skin/shadow.png) right bottom no-repeat;z-index:1000}
+div.jGo_app.jGo_myapp.jGo_ydsf{position:absolute;top:-100px;left:-100px;margin:9px -9px -9px 9px;background:url(../current_skin/shadow.png) right bottom no-repeat;z-index:1000}
+div.jGo_app.jGo_myapp.jGo_ydsf:before,
+div.jGo_app.jGo_myapp.jGo_ydsf:after{content:" ";display:block;width:9px;height:9px;background:inherit}
+div.jGo_app.jGo_myapp.jGo_ydsf:before{position:absolute;top:0px;right:0px;margin:-9px 0px 0px auto;background-position:right top}
+div.jGo_app.jGo_myapp.jGo_ydsf:after{margin:-9px 0px 0px -9px;background-position:left bottom}
+
+#jGo_app.jGo_myapp div.jGo_ydsf, .jGo_app.jGo_myapp div.jGo_ydsf{position:absolute;top:-100px;left:-100px;margin:9px -9px -9px 9px;background:url(../current_skin/shadow.png) right bottom no-repeat;z-index:1000}
+#jGo_app.jGo_myapp div.jGo_ydsf, .jGo_app.jGo_myapp div.jGo_ydsf{position:absolute;top:-100px;left:-100px;margin:9px -9px -9px 9px;background:url(../current_skin/shadow.png) right bottom no-repeat;z-index:1000}
+#jGo_app.jGo_myapp div.jGo_ydsf:before,
+#jGo_app.jGo_myapp div.jGo_ydsf:after, 
+.jGo_app.jGo_myapp div.jGo_ydsf:before,
+.jGo_app.jGo_myapp div.jGo_ydsf:after{content:" ";display:block;width:9px;height:9px;background:inherit}
+#jGo_app.jGo_myapp div.jGo_ydsf:before, .jGo_app.jGo_myapp div.jGo_ydsf:before{position:absolute;top:0px;right:0px;margin:-9px 0px 0px auto;background-position:right top}
+#jGo_app.jGo_myapp div.jGo_ydsf:after, .jGo_app.jGo_myapp div.jGo_ydsf:after{margin:-9px 0px 0px -9px;background-position:left bottom}
+
+#jGo_app.jGo_myapp *.jGo_inner, .jGo_app.jGo_myapp *.jGo_inner{position:relative;overflow:hidden;left:-9px;top:-9px}
+#jGo_app.jGo_myapp *.jGo_inner, .jGo_app.jGo_myapp *.jGo_inner{display:block;left:-9px;top:-9px;margin:0px}

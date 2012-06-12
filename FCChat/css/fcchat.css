@@ -1,0 +1,40 @@
+#jGo_app.jGo_myapp *.fc_drag, .jGo_app.jGo_myapp *.fc_drag{ position: relative; cursor: move;}
+#jGo_app.jGo_myapp *.fc_grp, .jGo_app.jGo_myapp *.fc_grp {cursor: default;}
+
+#jGo_app.jGo_myapp *.fc_er, .jGo_app.jGo_myapp *.fc_er {background-image: url(../current_skin/chatelems1.gif); background-repeat: no-repeat; FONT-SIZE: 1pt;} 
+#jGo_app.jGo_myapp *.fc_e, .jGo_app.jGo_myapp *.fc_e { display: block; background-image: url(../current_skin/chatelems1.gif); background-repeat: no-repeat; FONT-SIZE: 1pt;} 
+#jGo_app.jGo_myapp *.fc_e_dwn, .jGo_app.jGo_myapp *.fc_e_dwn { width: 12px; height: 12px; background-position: -1px -1px; }
+#jGo_app.jGo_myapp *.fc_e_up, .jGo_app.jGo_myapp *.fc_e_up { width: 12px; height: 12px; background-position: -13px -1px; }
+#jGo_app.jGo_myapp *.fc_e_lck, .jGo_app.jGo_myapp *.fc_e_lck { width: 11px; height: 11px; background-position: -143px -129px; }
+#jGo_app.jGo_myapp *.fc_e_co, .jGo_app.jGo_myapp *.fc_e_co { width: 9px; height: 9px; background-position: -143px -118px; }
+#jGo_app.jGo_myapp *.fc_e_co2, .jGo_app.jGo_myapp *.fc_e_co2 { width: 9px; height: 9px; background-position: -152px -118px; }
+#jGo_app.jGo_myapp *.fc_e_co3, .jGo_app.jGo_myapp *.fc_e_co3 { width: 9px; height: 9px; background-position: -161px -118px; }
+#jGo_app.jGo_myapp *.fc_e_bld, .jGo_app.jGo_myapp *.fc_e_bld { width: 12px; height: 12px; background-position: -2px -181px; }
+#jGo_app.jGo_myapp *.fc_e_it, .jGo_app.jGo_myapp *.fc_e_it { width: 12px; height: 12px; background-position: -16px -181px; }
+#jGo_app.jGo_myapp *.fc_e_uln, .jGo_app.jGo_myapp *.fc_e_uln { width: 12px; height: 12px; background-position: -30px -181px; }
+#jGo_app.jGo_myapp *.fc_e_bck, .jGo_app.jGo_myapp *.fc_e_bck { width: 40px; height: 13px; background-position: -143px -61px; }
+#jGo_app.jGo_myapp *.fc_e_flt, .jGo_app.jGo_myapp *.fc_e_flt { width: 32px; height: 11px; background-position: -184px -194px; }
+#jGo_app.jGo_myapp *.fc_e_flt2, .jGo_app.jGo_myapp *.fc_e_flt2 { width: 32px; height: 11px; background-position: -218px -194px; }
+#jGo_app.jGo_myapp *.fc_e_sr, .jGo_app.jGo_myapp *.fc_e_sr { width: 11px; height: 11px; background-position: -166px -89px; }
+#jGo_app.jGo_myapp *.fc_e_sr2, .jGo_app.jGo_myapp *.fc_e_sr2 { width: 11px; height: 11px; background-position: -181px -89px; }
+#jGo_app.jGo_myapp *.fc_e_cl, .jGo_app.jGo_myapp *.fc_e_cl { width: 13px; height: 13px; background-position: -144px -180px; }
+#jGo_app.jGo_myapp *.fc_e_cl2, .jGo_app.jGo_myapp *.fc_e_cl2 { width: 13px; height: 13px; background-position: -170px -180px; }
+#jGo_app.jGo_myapp *.fc_e_del, .jGo_app.jGo_myapp *.fc_e_del { width: 13px; height: 13px; background-position: -144px -206px; }
+#jGo_app.jGo_myapp *.fc_e_del2, .jGo_app.jGo_myapp *.fc_e_del2 { width: 13px; height: 13px; background-position: -170px -206px; }
+#jGo_app.jGo_myapp *.fc_e_clb, .jGo_app.jGo_myapp *.fc_e_clb { width: 13px; height: 13px; background-position: -144px -193px; }
+#jGo_app.jGo_myapp *.fc_e_cl2b, .jGo_app.jGo_myapp *.fc_e_cl2b { width: 13px; height: 13px; background-position: -170px -193px; }
+#jGo_app.jGo_myapp *.fc_e_pl, .jGo_app.jGo_myapp *.fc_e_pl { width: 13px; height: 13px; background-position: -183px -180px; }
+#jGo_app.jGo_myapp *.fc_e_mn, .jGo_app.jGo_myapp *.fc_e_mn { width: 13px; height: 13px; background-position: -196px -180px; }
+#jGo_app.jGo_myapp *.fc_e_img, .jGo_app.jGo_myapp *.fc_e_img { width: 12px; height: 12px; background-position: -44px -181px; }
+#jGo_app.jGo_myapp *.fc_e_imgu, .jGo_app.jGo_myapp *.fc_e_imgu { width: 18px; height: 12px; background-position: -58px -181px; }
+#jGo_app.jGo_myapp *.fc_e_avu, .jGo_app.jGo_myapp *.fc_e_avu { width: 18px; height: 12px; background-position: -78px -181px; }
+#jGo_app.jGo_myapp *.fc_e_vid, .jGo_app.jGo_myapp *.fc_e_vid { width: 12px; height: 12px; background-position: -112px -181px; }
+#jGo_app.jGo_myapp *.fc_e_sml, .jGo_app.jGo_myapp *.fc_e_sml { width: 12px; height: 12px; background-position: -98px -181px; }
+#jGo_app.jGo_myapp *.fc_e_rmp, .jGo_app.jGo_myapp *.fc_e_rmp { width: 7px; height: 10px; background-position: -170px -118px; }
+#jGo_app.jGo_myapp *.fc_e_ud, .jGo_app.jGo_myapp *.fc_e_ud { width: 30px; height: 4px; background-position: -142px -140px; }
+
+
+
+
+
+
